@@ -1,0 +1,54 @@
+System 
+Windows NT DESKTOP-PSPD5EG 6.2 build 9200 (Windows 8 Enterprise Edition) AMD64 
+Build Date 
+Oct 27 2020 17:12:23 
+Compiler 
+Visual C++ 2017 
+Architecture 
+x64 
+Configure Command 
+cscript /nologo /e:jscript configure.js "--enable-snapshot-build" "--enable-debug-pack" "--with-pdo-oci=c:\php-snap-build\deps_aux\oracle\x64\instantclient_12_1\sdk,shared" "--with-oci8-12c=c:\php-snap-build\deps_aux\oracle\x64\instantclient_12_1\sdk,shared" "--enable-object-out-dir=../obj/" "--enable-com-dotnet=shared" "--without-analyzer" "--with-pgo" 
+Server API 
+Apache 2.0 Handler 
+Virtual Directory Support 
+enabled 
+Configuration File (php.ini) Path 
+no value 
+Loaded Configuration File 
+(none) 
+Scan this dir for additional .ini files 
+(none) 
+Additional .ini files parsed 
+(none) 
+PHP API 
+20190902 
+PHP Extension 
+20190902 
+Zend Extension 
+320190902 
+Zend Extension Build 
+API320190902,TS,VC15 
+PHP Extension Build 
+API20190902,TS,VC15 
+Debug Build 
+no 
+Thread Safety 
+enabled 
+Thread API 
+Windows Threads 
+Zend Signal Handling 
+disabled 
+Zend Memory Manager 
+enabled 
+Zend Multibyte Support 
+disabled 
+IPv6 Support 
+enabled 
+DTrace Support 
+disabled 
+Registered PHP Streams
+php, file, glob, data, http, ftp, zip, compress.zlib, phar
+Registered Stream Socket Transports
+tcp, udp
+Registered Stream Filters
+convert.iconv.*, string.rot13, string.toupper, string.tolower, string.strip_tags, convert.*, consumed, dechunk, zlib.*
